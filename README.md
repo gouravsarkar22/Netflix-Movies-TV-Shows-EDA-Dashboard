@@ -19,3 +19,11 @@ Conducted in-depth analysis on content patterns, genres, ratings, release trends
 8. TV shows have grown faster than movies in recent years.
 9. Frequent actors : Nawazuddin Siddiqui, Anupam Kher, Shah Rukh Khan, Nicolas Cage, etc.
 10. Country-wise genre distribution shows India focuses heavily on movies, while the US balances both movies and TV shows.
+
+# Tech-stack Used
+
+Python - Main Programming language
+Pandas
+Streamlit
+Matplotlib
+Seaborn
