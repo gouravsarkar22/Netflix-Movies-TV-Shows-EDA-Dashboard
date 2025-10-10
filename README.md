@@ -13,9 +13,9 @@ Conducted in-depth analysis on content patterns, genres, ratings, release trends
 2. The USA, India, and the UK are the top content producers.
 3. Number of titles grew significantly after 2015.
 4. Drama, Comedy, and International Movies are top genres.
-5. Prominent directors include Rajiv Chilaka and Raúl Campos.
+5. Prominent directors include Rajiv Chilaka, Raúl Campos, and SS Rajamouli.
 6. "TV-MA" and "TV-14" dominate - indicating mature content focus.
 7. Average movie duration clusters around 90-120 minutes.
 8. TV shows have grown faster than movies in recent years.
-9. Frequent actors : Anupam Kher, Shah Rukh Khan, Nicolas Cage, etc.
+9. Frequent actors : Nawazuddin Siddiqui, Anupam Kher, Shah Rukh Khan, Nicolas Cage, etc.
 10. Country-wise genre distribution shows India focuses heavily on movies, while the US balances both movies and TV shows.
