@@ -2,6 +2,8 @@
 
 Open Dashboard from : http://192.168.0.188:8502/
 
+Otherwise, run this dashboard locally using streamlit run main.py
+
 # Overview 
 Conducted in-depth analysis on content patterns, genres, ratings, release trends, country-wise insights, actors & directors, and duration analysis from the Netflix titles dataset, explores catalog of movies and TV shows using **EDA and visualize them interactively using Streamlit with Matplotlib and Seaborn. Enabled users to filter data dynamically by year, country, and content type through Streamlit widgets.
 
