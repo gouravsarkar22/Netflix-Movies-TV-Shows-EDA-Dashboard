@@ -23,7 +23,11 @@ Conducted in-depth analysis on content patterns, genres, ratings, release trends
 # Tech-stack Used
 
 Python - Main Programming language
+
 Pandas
+
 Streamlit
+
 Matplotlib
+
 Seaborn
